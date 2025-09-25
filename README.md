@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=tN1MXhiz&id=A7DE8B54FFB99140362F48330F22D1735E1BD308&thid=OIP.tN1MXhizwKDDUBjzfCsvlAHaHa&mediaurl=https%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&exph=1600&expw=1600&q=C+logo&mode=overlay&FORM=IQFRBA&ck=0DBC54964CC72024E97AB543CEBF56FB&selectedIndex=0&idpp=serp" height="35" alt="C logo" />
+  
 </div>
 
 ###
